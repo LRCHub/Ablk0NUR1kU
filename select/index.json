@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Hit the Floor",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-18T14:47:08.130555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hit The Floor",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Hit_The_Floor_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hit The Floor",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/02_Hit_The_Floor_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hit the Floor",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": false,
+      "path": "select/03_Hit_the_Floor_Thousand_Foot_Krutch.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hit The Floor",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_Hit_The_Floor_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hit The Floor",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/05_Hit_The_Floor_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hit the Floor",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/06_Hit_the_Floor_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hit the Floor",
+      "artist": "Twista",
+      "has_synced": false,
+      "path": "select/07_Hit_the_Floor_Twista.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hit the Floor",
+      "artist": "Mango Maniax",
+      "has_synced": false,
+      "path": "select/08_Hit_the_Floor_Mango_Maniax.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hit the Floor",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Hit_the_Floor_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Husky - Hit The Floor Demo",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/10_Husky_-_Hit_The_Floor_Demo_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hit The Floor",
+      "artist": "[LINKIN PARK]",
+      "has_synced": true,
+      "path": "select/11_Hit_The_Floor_[LINKIN_PARK].lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let the Bodies Hit the Floor!",
+      "artist": "Drowning Pool",
+      "has_synced": true,
+      "path": "select/12_Let_the_Bodies_Hit_the_Floor!_Drowning_Pool.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hit the Floor - Live In Nottingham 2003",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Hit_the_Floor_-_Live_In_Nottingham_2003_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hit The Floor",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/14_Hit_The_Floor_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Husky (Hit the Floor demo)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Husky_(Hit_the_Floor_demo)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let the Water Hit the Floor",
+      "artist": "Caddywhompus",
+      "has_synced": true,
+      "path": "select/16_Let_the_Water_Hit_the_Floor_Caddywhompus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/17_Hit_Me_Like_That_Snare_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hit Me Like That Snare",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/18_Hit_Me_Like_That_Snare_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Feel Good Hit of the Fall",
+      "artist": "!!!",
+      "has_synced": true,
+      "path": "select/19_Feel_Good_Hit_of_the_Fall_!!!.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hit the North Part 1",
+      "artist": "The Fall",
+      "has_synced": false,
+      "path": "select/20_Hit_the_North_Part_1_The_Fall.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Hit the North, Part 1",
+      "artist": "The Fall",
+      "has_synced": true,
+      "path": "select/21_Hit_the_North,_Part_1_The_Fall.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Hit 'Em Up",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/22_Hit_'Em_Up_2Pac.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Hit Skit",
+      "artist": "Freundeskreis",
+      "has_synced": false,
+      "path": "select/23_Hit_Skit_Freundeskreis.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Hit",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/24_The_Hit_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Finna Hit a Lick",
+      "artist": "Lil B",
+      "has_synced": true,
+      "path": "select/25_Finna_Hit_a_Lick_Lil_B.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Waiting to Hit",
+      "artist": "Lift to Experience",
+      "has_synced": false,
+      "path": "select/26_Waiting_to_Hit_Lift_to_Experience.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "You Wanted a Hit",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/27_You_Wanted_a_Hit_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "#1 Hit Song",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/28_1_Hit_Song_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Hit Em Wit Da Hee",
+      "artist": "Missy Elliott feat. Lil' Kim & Mocha",
+      "has_synced": false,
+      "path": "select/29_Hit_Em_Wit_Da_Hee_Missy_Elliott_feat._Lil'_Kim_&_Mocha.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Hit 'em Wit da Hee (feat. Lil' Kim)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/30_Hit_'em_Wit_da_Hee_(feat._Lil'_Kim)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Hit 'em Wit Da Hee",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/31_Hit_'em_Wit_Da_Hee_Missy_Elliott.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hit the Floor",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Hit_the_Floor_Linkin_Park.txt"
+    }
+  ]
+}
